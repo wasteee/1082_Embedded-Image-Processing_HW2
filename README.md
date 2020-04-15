@@ -18,5 +18,4 @@ Sobel 中的 dx , dy 設定為 1。 </p>
 - 修改測試 </p>
 接下來試著先對原圖高斯模糊，kerenl 設定為 5x5，再使用 Sobel，效果如下圖  </p>
 ![image](https://github.com/wasteee/1082_Embedded-Image-Processing_HW2/blob/master/image/SobelandBlur.jpg)
-
 可發現背景的樹木變得較為不明顯，且人型外框與背景的對比更為明顯一點，但對於中間的人頭部則沒有較明顯的改善。 </p>
